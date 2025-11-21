@@ -1,0 +1,23 @@
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\bin\Debug\net6.0\SangkayDomain.deps.json
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\bin\Debug\net6.0\SangkayDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\bin\Debug\net6.0\SangkayDomain.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\refint\SangkayDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\ref\SangkayDomain.dll
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\bin\Debug\net6.0\SangkayDomain.deps.json
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\bin\Debug\net6.0\SangkayDomain.dll
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\bin\Debug\net6.0\SangkayDomain.pdb
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.sourcelink.json
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.dll
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\refint\SangkayDomain.dll
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\SangkayDomain.pdb
+C:\Users\Admin\Desktop\SangkaySolution1\SangkayDomain\obj\Debug\net6.0\ref\SangkayDomain.dll
